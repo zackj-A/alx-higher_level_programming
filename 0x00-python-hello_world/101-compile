@@ -1,0 +1,2 @@
+#!/bin/bash
+ptthon3 -m compioleall -b $PYFILE i
